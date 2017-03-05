@@ -9,6 +9,7 @@
     ],
     "sourceMap": true,
     "jsx": "react",
+    "alwaysStrict": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "allowJs": true
